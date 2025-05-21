@@ -1,0 +1,7 @@
+C:\Users\kab-35-17\Documents\215.5\ConsoleApp21\bin\Debug\ConsoleApp21.exe.config
+C:\Users\kab-35-17\Documents\215.5\ConsoleApp21\bin\Debug\ConsoleApp21.exe
+C:\Users\kab-35-17\Documents\215.5\ConsoleApp21\bin\Debug\ConsoleApp21.pdb
+C:\Users\kab-35-17\Documents\215.5\ConsoleApp21\obj\Debug\ConsoleApp21.csproj.AssemblyReference.cache
+C:\Users\kab-35-17\Documents\215.5\ConsoleApp21\obj\Debug\ConsoleApp21.csproj.CoreCompileInputs.cache
+C:\Users\kab-35-17\Documents\215.5\ConsoleApp21\obj\Debug\ConsoleApp21.exe
+C:\Users\kab-35-17\Documents\215.5\ConsoleApp21\obj\Debug\ConsoleApp21.pdb
